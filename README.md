@@ -1,4 +1,4 @@
-# Sites criados por mim nesse CMS
+# Sites feitos por mim.
 #
 https://srmsaopaulo.org/
 #
